@@ -1,0 +1,17 @@
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\bin\Debug\net6.0\SimpleUserCrud.Data.deps.json
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\bin\Debug\net6.0\SimpleUserCrud.Data.runtimeconfig.json
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\bin\Debug\net6.0\SimpleUserCrud.Data.dll
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\bin\Debug\net6.0\SimpleUserCrud.Data.pdb
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\bin\Debug\net6.0\SimpleUserCrud.Core.dll
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\bin\Debug\net6.0\SimpleUserCrud.Core.pdb
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\obj\Debug\net6.0\SimpleUserCrud.Data.csproj.AssemblyReference.cache
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\obj\Debug\net6.0\SimpleUserCrud.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\obj\Debug\net6.0\SimpleUserCrud.Data.AssemblyInfoInputs.cache
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\obj\Debug\net6.0\SimpleUserCrud.Data.AssemblyInfo.cs
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\obj\Debug\net6.0\SimpleUserCrud.Data.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\obj\Debug\net6.0\SimpleUs.5A852078.Up2Date
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\obj\Debug\net6.0\SimpleUserCrud.Data.dll
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\obj\Debug\net6.0\refint\SimpleUserCrud.Data.dll
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\obj\Debug\net6.0\SimpleUserCrud.Data.pdb
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\obj\Debug\net6.0\SimpleUserCrud.Data.genruntimeconfig.cache
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Infrastructure\obj\Debug\net6.0\ref\SimpleUserCrud.Data.dll

@@ -1,0 +1,51 @@
+﻿@model List<User>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TestTaskApplication</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="container list-container">
+        <row>   <div class="col-3"><a asp-action="Create" class="btn btn-success create-btn" id="a-edit">Добавить пользователя</a></div> </row>
+        <div class="row header">
+            <div class="col-3 col-md-3 col-sm-2">Login</div>
+            <div class="col-3 col-md-3 col-sm-2" > FirstName </div>
+            <div class="col-4 col-md-4 col-sm-3" >LastName</div>
+            <div class="col-1 col-md-1 col-sm-2"></div>
+            <div class="col-1 col-md-1 col-sm-2"> </div>
+        </div>
+
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (User user in Model)
+            {
+
+                <div class="row" style="flex-wrap:nowrap; overflow:hidden">
+                    <div class="col-3 col-md-3 col-sm-2">
+                        @user.Login
+                    </div>
+                    <div class="col-3 col-md-3 col-sm-2">
+                        @user.FirstName
+                    </div>
+                    <div class="col-4 col-md-4 col-sm-3">
+                        @user.LastName
+                    </div>
+                    <div class="col-1 col-md-1 col-sm-2"><a style="margin-left: -20px;" asp-action="Update" asp-route-id=@user.Id class="btn btn-primary" id="a-edit">Изменить</a></div>
+                    <div class="col-1 col-md-1 col-sm-2"> <a asp-action="Delete" asp-route-id=@user.Id class="btn btn-danger" id="a-edit">Удалить</a> </div>
+                </div>
+
+            }
+        }
+    </div>
+
+
+</body>
+</html>
+

@@ -1,0 +1,11 @@
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Core\bin\Release\net6.0\SimpleUserCrud.Core.deps.json
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Core\bin\Release\net6.0\SimpleUserCrud.Core.dll
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Core\bin\Release\net6.0\SimpleUserCrud.Core.pdb
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Core\obj\Release\net6.0\SimpleUserCrud.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Core\obj\Release\net6.0\SimpleUserCrud.Core.AssemblyInfoInputs.cache
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Core\obj\Release\net6.0\SimpleUserCrud.Core.AssemblyInfo.cs
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Core\obj\Release\net6.0\SimpleUserCrud.Core.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Core\obj\Release\net6.0\SimpleUserCrud.Core.dll
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Core\obj\Release\net6.0\refint\SimpleUserCrud.Core.dll
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Core\obj\Release\net6.0\SimpleUserCrud.Core.pdb
+C:\Users\Pavel\source\repos\SimpleUserCrud\SimpleUserCrud.Core\obj\Release\net6.0\ref\SimpleUserCrud.Core.dll

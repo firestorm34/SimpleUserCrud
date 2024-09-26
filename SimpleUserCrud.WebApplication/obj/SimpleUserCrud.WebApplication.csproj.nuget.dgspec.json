@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.WebApplication\\SimpleUserCrud.WebApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Core\\SimpleUserCrud.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Core\\SimpleUserCrud.Core.csproj",
+        "projectName": "SimpleUserCrud.Core",
+        "projectPath": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Core\\SimpleUserCrud.Core.csproj",
+        "packagesPath": "C:\\Users\\Pavel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Infrastructure\\SimpleUserCrud.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Infrastructure\\SimpleUserCrud.Data.csproj",
+        "projectName": "SimpleUserCrud.Data",
+        "projectPath": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Infrastructure\\SimpleUserCrud.Data.csproj",
+        "packagesPath": "C:\\Users\\Pavel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Core\\SimpleUserCrud.Core.csproj": {
+                "projectPath": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Core\\SimpleUserCrud.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.WebApplication\\SimpleUserCrud.WebApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.WebApplication\\SimpleUserCrud.WebApplication.csproj",
+        "projectName": "SimpleUserCrud.WebApplication",
+        "projectPath": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.WebApplication\\SimpleUserCrud.WebApplication.csproj",
+        "packagesPath": "C:\\Users\\Pavel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.WebApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Core\\SimpleUserCrud.Core.csproj": {
+                "projectPath": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Core\\SimpleUserCrud.Core.csproj"
+              },
+              "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Infrastructure\\SimpleUserCrud.Data.csproj": {
+                "projectPath": "C:\\Users\\Pavel\\source\\repos\\SimpleUserCrud\\SimpleUserCrud.Infrastructure\\SimpleUserCrud.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
